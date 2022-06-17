@@ -8,7 +8,7 @@ My posts 📖:
 
 Pet projects:
 
-* 🐍 [docker-compose visualiztion tool for your documentation](https://github.com/skonik/docker-compose-diagram])
+* 🐍 [docker-compose visualization tool for your documentation](https://github.com/skonik/docker-compose-diagram])
 * 🦀 [Rust Async downloader](https://github.com/skonik/rust-async-downloader)
 
 <!--
