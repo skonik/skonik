@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 My posts 📖:
 * 🐍 [Refactoring if else statements](https://skonik.me/python-alternatives-to-if-elif-statements-before-python-3-10/)
