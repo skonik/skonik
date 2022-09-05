@@ -1,8 +1,9 @@
 
-My posts 📖:
+My posts 📖: 
 * 🐍 [Refactoring if else statements](https://skonik.me/python-alternatives-to-if-elif-statements-before-python-3-10/)
-* 🐍 [Asyncio multipart upload to S3](https://skonik.me/uploading-large-file-to-s3-using-aiobotocore/)
-* 🐍 [Authentication and authorization concepts explained using python](https://skonik.me/authentication-concepts-explained/)
+* 🐍 [Asyncio multipart upload to S3](https://skonik.me/uploading-large-file-to-s3-using-aiobotocore/) 
+* 🐍 [Authentication and authorization concepts explained using python](https://skonik.me/authentication-concepts-explained/) 
+* 🐍🤖 [Разбираемся с концепцией аутентификации в HTTP](https://habr.com/ru/post/682170/)
 
 Pet projects:
 
