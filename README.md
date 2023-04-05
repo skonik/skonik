@@ -1,4 +1,12 @@
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50069473/230179615-c0397d5e-b99f-4dc2-a9e7-72c515b068fe.png" width="340" height="500" />
+</p>
+
+<p align="center">
+Research 🔬 Create 🔨 Share 🌐
+</p>
+
 My posts 📖: 
 * 🐍 [Refactoring if else statements](https://skonik.me/python-alternatives-to-if-elif-statements-before-python-3-10/)
 * 🐍 [Asyncio multipart upload to S3](https://skonik.me/uploading-large-file-to-s3-using-aiobotocore/) 
