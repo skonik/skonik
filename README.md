@@ -19,6 +19,7 @@ Pet projects:
 * 🐍 [docker-compose visualization tool for your documentation](https://github.com/skonik/docker-compose-diagram)
 * 🦀 [Rust Async downloader](https://github.com/skonik/rust-async-downloader)
 * 🐍 [flake8-drf](https://github.com/skonik/flake8-drf)
+* 🐍 [git-limiter - pre-commit hook to prevent commiting huge diffs](https://github.com/skonik/git-limiter) 
 
 <!--
 **skonik/skonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
