@@ -1,8 +1,7 @@
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50069473/230179615-c0397d5e-b99f-4dc2-a9e7-72c515b068fe.png" width="340" height="500" />
+<img src=https://github.com/skonik/skonik/assets/50069473/087e4318-078e-48b4-beab-d7b422704856" width="340" height="340" />
 </p>
-
 <p align="center">
 Research 🔬 Create 🔨 Share 🌐
 </p>
